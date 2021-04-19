@@ -1,4 +1,4 @@
-# Flight-Fare-Prediction-
+# Flight-Fare-Prediction
 
 # Demonstration
 Link : https://flight-fare-predictions-api.herokuapp.com/
