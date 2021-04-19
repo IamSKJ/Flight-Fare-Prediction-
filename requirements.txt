@@ -14,6 +14,7 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 Flask==1.1.2
 Flask-Cors==3.0.10
+gunicorn
 importlib-metadata 
 ipykernel==5.5.3
 ipython
